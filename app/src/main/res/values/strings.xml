@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AdTestApp</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- The following is referenced in content_main.xml's ads:adUnitId -->
+    <string name="banner_ad_unit_id">Replace with real ID</string>
+
+    <!-- The following is used by MobileAds.initialize(context, string) method -->
+    <string name="mobile_ad_app_code">Replace with real ID</string>
+</resources>

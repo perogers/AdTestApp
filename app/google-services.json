@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "229830427059",
+    "firebase_url": "https://my-test-app-2a797.firebaseio.com",
+    "project_id": "my-test-app-2a797",
+    "storage_bucket": "my-test-app-2a797.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:229830427059:android:361ceefe9eba1a4c",
+        "android_client_info": {
+          "package_name": "com.greenriver.android.adtestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "229830427059-2iphsn3fpceitj2cck0a9j09ljbsio0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ0kw_Q9rSHOpBVpvEU7iKpsCBc1Ktzhg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
